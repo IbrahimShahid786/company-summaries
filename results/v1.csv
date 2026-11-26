@@ -1,0 +1,51 @@
+registrationNumber,flags,missed_flags,flag_recall,verdict_right,numbers,wrong_numbers,words
+SYN-000029,0,,,False,4,,89
+SYN-000067,1,,1.0,False,5,,107
+SYN-000148,1,,1.0,True,7,12%,101
+SYN-000165,0,,,False,3,,93
+SYN-000217,1,,1.0,True,2,,102
+SYN-000267,0,,,False,2,,77
+SYN-000282,0,,,True,2,,76
+SYN-000286,2,,1.0,True,4,RM 4.2,106
+SYN-000302,1,,1.0,True,0,,55
+SYN-000333,1,,1.0,True,3,,53
+SYN-000381,0,,,True,2,,108
+SYN-000397,1,,1.0,False,2,,81
+SYN-000451,2,,1.0,True,3,,101
+SYN-000476,1,,1.0,False,3,,90
+SYN-000510,1,revenue_drop,0.0,True,2,,97
+SYN-000511,1,revenue_drop,0.0,True,5,,106
+SYN-000545,4,winding_up_petition,0.75,False,0,,94
+SYN-000546,0,,,False,4,,106
+SYN-000640,0,,,False,5,,106
+SYN-000657,1,,1.0,False,8,RM 32,139
+SYN-000674,0,,,True,2,,85
+SYN-000677,0,,,False,4,,85
+SYN-000783,0,,,False,3,,118
+SYN-000785,1,,1.0,True,2,RM 13,75
+SYN-000802,1,,1.0,False,3,,83
+SYN-000923,1,revenue_drop,0.0,False,6,,117
+SYN-001070,0,,,False,3,,105
+SYN-001085,0,,,False,2,,69
+SYN-001102,0,,,True,2,,88
+SYN-001158,1,,1.0,False,2,,95
+SYN-001199,0,,,False,3,,105
+SYN-001203,1,missing_financials,0.0,False,3,,69
+SYN-001212,4,revenue_drop,0.75,False,7,RM 9,126
+SYN-001253,0,,,False,1,,74
+SYN-001294,1,,1.0,True,3,,88
+SYN-001298,1,,1.0,True,0,,127
+SYN-001355,1,revenue_drop,0.0,False,3,,115
+SYN-001389,2,,1.0,False,4,,100
+SYN-001455,0,,,False,3,,99
+SYN-001457,0,,,False,2,,87
+SYN-001472,0,,,False,2,,144
+SYN-001529,0,,,False,3,,93
+SYN-001560,1,loss,0.0,False,0,,102
+SYN-001569,1,,1.0,True,2,,73
+SYN-001618,1,,1.0,True,3,,104
+SYN-001645,0,,,True,3,,76
+SYN-001829,1,,1.0,True,3,,70
+SYN-001894,0,,,False,3,,103
+SYN-001969,0,,,True,8,,90
+SYN-001970,0,,,False,4,,78

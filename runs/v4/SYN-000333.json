@@ -1,0 +1,7 @@
+{
+ "registrationNumber": "SYN-000333",
+ "model": "openai/gpt-oss-120b",
+ "prompt": "You write one part of a short company summary for a team that vets companies before choosing them\nas suppliers or partners. The verdict and the list of red flags are already written by code; do not repeat them.\n\nWrite 1-2 sentences (at most 45 words) of plain context: what the company does, where, how old it is,\nits size (latest revenue) and its revenue trend. Use only the facts below, written exactly as given.\nDo not mention red flags, risks, court cases or whether data is complete or missing. No headings, no bullets.\n\nFacts:\n{\n \"name\": \"Gemilang Harmoni Enterprise Sdn. Bhd.\",\n \"registrationNumber\": \"SYN-000333\",\n \"business\": \"Retail of textiles and baju kurung\",\n \"industry\": \"Retail\",\n \"state\": \"Sarawak\",\n \"incorporated\": \"1997-10-21\",\n \"status\": \"Active\",\n \"directors\": 3,\n \"corporateShareholders\": [],\n \"formerNames\": [\n  \"Unity Industries Sdn. Bhd.\"\n ],\n \"financialYearsOnRecord\": [],\n \"courtCases\": {\n  \"total\": 0,\n  \"asPlaintiff\": 0,\n  \"asDefendant\": 0\n }\n}",
+ "summary": "Gemilang Harmoni Enterprise Sdn. Bhd. retails textiles and baju kurung in Sarawak; incorporated on 21 Oct 1997, the company has been operating for over 26 years.",
+ "seconds": 0.76
+}

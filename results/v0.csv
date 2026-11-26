@@ -1,0 +1,4 @@
+registrationNumber,flags,missed_flags,flag_recall,verdict_right,numbers,wrong_numbers,words
+SYN-000029,0,,,False,1,,108
+SYN-000067,1,,1.0,False,5,,129
+SYN-000148,1,,1.0,True,6,RM 4.8;12%,107
